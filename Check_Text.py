@@ -1,6 +1,5 @@
 #check  http://www.wdylike.appspot.com/?q=
 import urllib
-import urllib.request
 def Check_word(Text):
     Text = Text.split(' ')
     for word in Text :
